@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\unity projects\\Bad Birds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25EF75A-ECC2-174A-544D-1EC3AA350DDA}|Assembly-CSharp.csproj|C:\\unity projects\\Bad Birds\\assets\\scripts\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25EF75A-ECC2-174A-544D-1EC3AA350DDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25EF75A-ECC2-174A-544D-1EC3AA350DDA}|Assembly-CSharp.csproj|c:\\unity projects\\bad birds\\assets\\scripts\\dragline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25EF75A-ECC2-174A-544D-1EC3AA350DDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25EF75A-ECC2-174A-544D-1EC3AA350DDA}|Assembly-CSharp.csproj|c:\\unity projects\\bad birds\\assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25EF75A-ECC2-174A-544D-1EC3AA350DDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25EF75A-ECC2-174A-544D-1EC3AA350DDA}|Assembly-CSharp.csproj|C:\\unity projects\\Bad Birds\\assets\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25EF75A-ECC2-174A-544D-1EC3AA350DDA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DragLine.cs",
+              "DocumentMoniker": "C:\\unity projects\\Bad Birds\\Assets\\Scripts\\DragLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragLine.cs",
+              "ToolTip": "C:\\unity projects\\Bad Birds\\Assets\\Scripts\\DragLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragLine.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T17:47:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelController.cs",
+              "DocumentMoniker": "C:\\unity projects\\Bad Birds\\Assets\\Scripts\\LevelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelController.cs",
+              "ToolTip": "C:\\unity projects\\Bad Birds\\Assets\\Scripts\\LevelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:48:54.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\unity projects\\Bad Birds\\Assets\\Scripts\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Monster.cs",
+              "ToolTip": "C:\\unity projects\\Bad Birds\\Assets\\Scripts\\Monster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Monster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:24:30.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\unity projects\\Bad Birds\\Assets\\Scripts\\Bird.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bird.cs",
+              "ToolTip": "C:\\unity projects\\Bad Birds\\Assets\\Scripts\\Bird.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bird.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:01:56.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
